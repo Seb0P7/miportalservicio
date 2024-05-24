@@ -1,0 +1,43 @@
+div[class|="col"]{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+div[class|="col-11"]{
+
+    text-align: left;
+    
+}
+
+div[class|="col-2"]{
+
+    text-align: center;
+    
+}
+
+.img {
+
+    justify-content: center;
+
+}
+
+body {
+
+    background-image: url("images/background.jpg");
+    background-size: cover;
+
+}
+
+h5[class|="mt-0"]{
+
+    color: aliceblue;
+    text-align: left;
+}
+
+p[class|="bienvenida"]{
+
+    color: aliceblue;
+    text-align: left;
+}
+
